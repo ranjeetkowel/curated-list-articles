@@ -8,4 +8,4 @@
 
 ## Crypto
 
-[https://smallstep.com/blog/use-ssh-certificates/](https://smallstep.com/blog/use-ssh-certificates/)
+[If you’re not using SSH certificates you’re doing SSH wrong](https://smallstep.com/blog/use-ssh-certificates/)
