@@ -9,3 +9,6 @@
 ## Crypto
 
 [If you’re not using SSH certificates you’re doing SSH wrong](https://smallstep.com/blog/use-ssh-certificates/)
+
+## Java
+[Java Memory Management](https://medium.com/mindorks/java-memory-management-6e7ccafafcc1)
