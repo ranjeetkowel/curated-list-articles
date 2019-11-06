@@ -12,4 +12,5 @@
 
 ## Java
 [Understanding Memory Management](https://docs.oracle.com/cd/E15289_01/JRSDK/garbage_collect.htm)
+
 [Java Memory Management](https://medium.com/mindorks/java-memory-management-6e7ccafafcc1)
