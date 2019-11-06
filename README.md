@@ -11,4 +11,5 @@
 [If you’re not using SSH certificates you’re doing SSH wrong](https://smallstep.com/blog/use-ssh-certificates/)
 
 ## Java
+[Understanding Memory Management](https://docs.oracle.com/cd/E15289_01/JRSDK/garbage_collect.htm)
 [Java Memory Management](https://medium.com/mindorks/java-memory-management-6e7ccafafcc1)
